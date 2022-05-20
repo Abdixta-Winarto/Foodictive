@@ -38,11 +38,11 @@ const foods = [{
   howtocook: '',
 },
 {
-  id: '',
-  name: '',
-  description: '',
-  ingredients: '',
-  howtocook: '',
+  id: 'bakso',
+  name: 'Bakso',
+  description: 'Bakso is Indonesian meatball. When served with noodles and broth, the dish is mee bakso. But meatballs are ubiquitous in Asian noodle soups—what makes the Indonesian bakso different? Bakso, whether meat, seafood or chicken-based, are denser and richer because of the paste used to make them. The paste is called surimi. Like laksa, there is no definitive recipe for making mee bakso. The soup can be made from meat, seafood or chicken, or a combination of all of them. The meatballs can have beef, pork, chicken, fish or other seafood.',
+  ingredients: '5 pounds beef bones, 1 (1-inch) piece ginger, peeled, 4 cloves garlic, lightly crushed, 1 (2-inch) cinnamon stick, 3 pods cardamom lightly pounded, 3 whole cloves, 6 whole peppercorns, 18 medium meatballs, 1 small carrot thinly sliced, 4 cups spinach or bok choy, 3 cups cooked egg noodles, ½ cup store-bought or homemade crisp-fried shallots, 3 large hard boiled eggs, optional',
+  howtocook: 'Step 1 Place the beef bones in a pot. Cover with water; Step 2 Bring to the boil; skim off any scum that rises; Step 3 Add the ginger, garlic, cinnamon, cardamom, cloves, and peppercorns. Simmer for at least two hours; Step 4 Strain the broth and pour back into the pot; discard the bones and aromatics. Step 5 Heat the broth until simmering. Drop in the meatballs; Step 6 Using a ​kitchen spider, blanch the sliced carrot and spinach separately in the hot broth; Step 7 Divide the noodles among three bowls. Step 8 Divide the carrot slices and spinach into three portions and put in the bowls next to the noodles; Step 9 Ladle the hot soup and meatballs directly into the bowls; Step 10 Top each bowl with crisp-fried shallots and split hard-boiled eggs, if using.',
 },
 {
   id: '',
