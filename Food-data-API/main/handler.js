@@ -17,6 +17,7 @@ const postMethodHandler = (request, h) => {
     seventh,
     eighth,
     ninth,
+    tenth,
   } = request.payload;
 
   const id = name.replace(/\s+/g, '').toLowerCase();
@@ -38,6 +39,7 @@ const postMethodHandler = (request, h) => {
     seventh,
     eighth,
     ninth,
+    tenth,
     insertedAt,
     updatedAt,
   };
@@ -103,6 +105,7 @@ const getMethodHandler = (request, h) => {
           seventh: food.seventh,
           eighth: food.eighth,
           ninth: food.ninth,
+          tenth: food.tenth,
         })),
       },
     });
@@ -129,6 +132,7 @@ const getMethodHandler = (request, h) => {
         seventh: food.seventh,
         eighth: food.eighth,
         ninth: food.ninth,
+        tenth: food.tenth,
       })),
     },
   });
@@ -175,6 +179,7 @@ const putMethodHandler = (request, h) => {
     seventh,
     eighth,
     ninth,
+    tenth,
   } = request.payload;
 
   if (name === undefined) {
@@ -205,6 +210,7 @@ const putMethodHandler = (request, h) => {
       seventh,
       eighth,
       ninth,
+      tenth,
       updatedAt,
     };
 
