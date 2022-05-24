@@ -157,8 +157,8 @@ const foods = [{
 },
 {
   id: 'telurasin',
-  name: 'Salted Egg',
-  description: 'A salted duck egg is an Asian preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.',
+  name: 'Telur Asin',
+  description: 'A salted duck egg (Telur Asin) is an Asian preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.',
   ingredients: '10 duck egg, 1000 ml water, 100 gr salt, 1 kg rub ash, bucket',
   howtocook: 'Step 1 Prepare a plastic bucket, sandpaper, pan, stirrer, and egg storage container; Step 2 Prepare water in a plastic bucket to wash the eggs; Step 3 Wash raw duck eggs. To make it easier to remove dirt on the egg shell. You can use the help of a toothbrush; Step 4 dry the eggs; Step 5 Rub the egg with sandpaper to open the pores in the eggshell. The goal is to allow the salt mixture to soak into the eggs; Step 6 Make a mixture for salting eggs by mixing red rub ash in a ratio of 1:1; Step 7 Mix with water until it becomes a paste; Step 8 Coat the duck egg with dough about 1-2 mm thick; Step 9 Store eggs in a container for 15-20 days. The longer the eggs are stored, the more salty and delicious they will taste; Step 10 After enough time is stored, clean the eggs and then cook by steaming or boiling;',
   first: 'Step 1 Prepare a plastic bucket, sandpaper, pan, stirrer, and egg storage container.',
