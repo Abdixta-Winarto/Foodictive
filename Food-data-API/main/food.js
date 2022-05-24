@@ -68,7 +68,7 @@ const foods = [{
   tenth: '',
 },
 {
-  id: 'sateayam',
+  id: 'sate',
   name: 'Sate Ayam',
   description: 'Satay or sate in Indonesian and Malay spelling, is a Southeast Asian dish of seasoned, skewered and grilled meat, served with a sauce. The earliest preparations of satay is believed to have originated in Javanese cuisine, but has spread to almost anywhere in Indonesia, where it has become a national dish. Indonesian satay is often served with peanut sauce a sauce made from peanut butter, and is often accompanied with lontong, a type of rice cake, though the diversity of the country has produced a wide variety of satay recipes. Satay may consist of diced or sliced chicken, goat, mutton, beef, pork, fish, other meats, or tofu; bamboo skewers are often used, while rustic style of preparations employ skewers from the midrib of the coconut palm frond. These are grilled or barbecued over a wood or charcoal fire, then served with various spicy seasonings. Satay can be served in various sauces; however, most often they are served in a combination of soy and peanut sauce. Hence, peanut sauce is often called satay sauce. It is popular as street food, and it can be obtained from a travelling satay vendor, from a street-side tent-restaurant, in an upper-class restaurant, or at traditional celebration feasts.',
   ingredients: '1/4 cup coconut milk, 2 tablespoons reduced sodium soy sauce, 2 1/2 teaspoons yellow curry powder,1 1/2 teaspoons turmeric, 3 cloves garlic, minced, 1 tablespoon freshly grated ginger,1 tablespoon brown sugar, 1 tablespoon fish sauce, 2 pounds boneless, skinless chicken thighs, cut into 1-inch chunks, 1 tablespoon canola oil, Kosher salt and freshly ground black pepper, to taste, FOR THE PEANUT SAUCE: 3 tablespoons creamy peanut butter, 1 tablespoon reduced sodium soy sauce, 1 tablespoon freshly squeezed lime juice, 2 teaspoons brown sugar,2 teaspoons chili garlic sauce, or more, to taste, 1 teaspoon freshly grated ginger.',
@@ -102,7 +102,7 @@ const foods = [{
   tenth: 'Step 10 Top each bowl with crisp-fried shallots and split hard-boiled eggs, if using.',
 },
 {
-  id: 'gadogadosalad',
+  id: 'gadogado',
   name: 'Gado Gado Salad',
   description: 'Gado-gado (Indonesian or Betawi) is an Indonesian salad of raw, slightly boiled, blanched or steamed vegetables and hard-boiled eggs, boiled potato, fried tofu and tempeh, and lontong (rice wrapped in a banana leaf), served with a peanut sauce dressing.',
   ingredients: '1 tbsp vegetable oil, 200g firm tofu chopped into small chunks, 250g cooked potatoes (leftover roast potatoes work well) chopped into chunks, 3 eggs, 100g green beans halved lengthways, 250g Chinese cabbage finely shredded, ½ cucumber (or 1 baby cucumber) thinly sliced, 100g beansprouts, 1 carrot shredded, handful coriander leaves picked and roughly chopped, handful prawn crackers, 4 tbsp crispy onions, 50g peanut butter, 3 tbsp kecap manis (or 2 ½ tbsp soy sauce and ½ tbsp honey), 2 tsp shrimp paste or dried crayfish, 1 tbsp fish sauce, 1 tbsp soft dark brown sugar, 1 garlic clove crushed, 2 fat red chillies (I like Scotch bonnets - use only 1 if you dont like it too spicy) finely chopped, 150ml coconut milk, juice 1 lime',
@@ -136,7 +136,7 @@ const foods = [{
   tenth: '',
 },
 {
-  id: 'beefrendang',
+  id: 'rendang',
   name: 'Beef Rendang',
   description: 'Beef Rendang is one of the original cuisines of Minangkabau descent and Sumatra’s culture. It is served at special occasions to honor guests and during festive seasons. It is a delicious Indonesian dish prepared with a myriad of herbs and spices cooking for a few hours until all the liquids have been completely absorbed by the meat. Beef rendang is best eaten with steamed rice and condiments such as fried onions and chili pieces. Here is the good news.  You do not need to travel to Sumatra of Indonesia. You can just recreate the world’s best food at home by following this beef rendang recipe.',
   ingredients: '1½ lbs. (0.6 kg) boneless beef short ribs cut into cubes, 5 tablespoons cooking oil, 1 stick cinnamon about 2 inch length, 3 cloves, 3 star anise, 3 cardamom pods, 1 lemongrass cut into 4 inch length and pounded, 1 cup thick coconut milk coconut cream, 1 cup water, 2 teaspoons tamarind pulp soaked in some warm water for the juice and discard the seeds, 6 kaffir lime leaves very finely sliced, 6 tablespoons kerisik toasted coconut, 1 tablespoon sugar or palm sugar to taste, salt to taste, 5 shallots, 1 inch galangal, 3 lemongrass (white part only), 5 cloves garlic, 1 inch ginger, 10-12 dried chilies soaked in warm water and seeded.',
@@ -153,7 +153,7 @@ const foods = [{
   tenth: '',
 },
 {
-  id: 'saltedegg',
+  id: 'telurasin',
   name: 'Salted Egg',
   description: 'A salted duck egg is an Asian preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.',
   ingredients: '10 duck egg, 1000 ml water, 100 gr salt, 1 kg rub ash, bucket',
