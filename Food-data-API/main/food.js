@@ -1,6 +1,6 @@
 /* eslint-disable max-len */
 const foods = [{
-  id: 'ayambakar',
+  id: 'ayam_bakar',
   name: 'Ayam Bakar',
   description: 'Ayam bakar is an Indonesian and Malaysian dish, consisting of charcoal-grilled chicken. Ayam bakar literally means "roasted chicken" in Indonesian and Malay. In Java, the chicken is usually marinated with the mixture of kecap manis (sweet soy sauce) and coconut oil, applied with a brush during grilling. The bumbu spice mixture may vary among regions, but usually it consists of combination of ground shallot, garlic, chilli pepper, coriander, tamarind juice, candlenut, turmeric, galangal and salt. In Java, ayam bakar usually tastes rather sweet because of the generous amount of sweet soy sauce either as marination or dipping sauce, while the ayam bakar Padang, Bali, Lombok and most of Sumatra are usually spicier and more reddish in colour due to the generous amount of chilli pepper, turmeric and other spices, and the absence of sweet soy sauce. The chicken pieces are usually partially cooked in the spice mixture using a small fire prior to grilling, in order for the chicken to absorb the spices. During grilling process the remaining spices are applied upon the chicken. Ayam bakar is usually served with sambal terasi (chilli with terasi) or sambal kecap (sliced chilli and shallot in sweet soy sauce) as dipping sauce or condiment and slices of cucumber and tomato as garnishing.',
   ingredients: '800 g (1 head) chicken, cut into 4 parts, 4 bay leaves, 2 lemongrass stalks, bruised, 20 g tamarind, dissolved in 3 tablespoons hot water, 500 ml coconut milk, 2 tbsp oil, for frying, 10 red onions, 5 cloves of garlic, 1 tbsp coriander (roasted), 5 pecans, half tsp pepper powder, 3 cm turmeric, 50 g brown sugar, 1 tsp salt, 1 tsp sugar, 1 tbsp Bango Sweet Soy Sauce',
@@ -19,7 +19,7 @@ const foods = [{
   tenth: '',
 },
 {
-  id: 'bandengpresto',
+  id: 'bandeng_presto',
   name: 'Bandeng Presto ',
   description: 'Bandeng presto is a typical Indonesian food originating from Juwana District, Pati Regency, Central Java and Gresik, East Java. This dish is made from milkfish (Chanos chanos) seasoned with garlic, turmeric and salt.This milkfish is then cooked on a banana leaf base in a pressure cooker. Presto is a method of cooking with high pressure steam. Food cooked this way is placed in a pan that can be locked tightly. The water in this pot is then heated until it boils. The water vapor that arises will cook the food in this pan. Because milkfish are known to have many spines, pressure cookers are a favorite food because with this method of cooking, these spines become very soft.',
   ingredients: '5 whitefish (weighing 200 grams each), clean and wash, 5 bay leaves, 1 tbsp red onion, puree, 1 tsp garlic, puree, 1 tbsp salt, grind, 1 tsp turmeric sliced, puree, 300 ml water',
@@ -54,7 +54,7 @@ const foods = [{
   tenth: '',
 },
 {
-  id: 'nasipindang',
+  id: 'nasi_pindang',
   name: 'Nasi Pindang',
   description: 'Nasi Pindang is a dish of rice and meat served with pindang sauce and melinjo or so leaves. It is a typical food from the people of Kudus Regency, precisely in Colo Village. Nasi Pindang usually served in every Kudus community that has a celebration / party. However, over time, Nasi Pindang has been sold everywhere from restaurants to street stalls. Nasi Pindang originally came from Kudus. Nasi Pindang in Kudus originally used buffalo meat because in Kudus there is a prohibition on eating beef. But now usually Nasi Pindang is served with beef or chicken.',
   ingredients: '500g beef brisket, 2L water, 2 bay leaves, 3 lemongrass stalks, bruised, 7 lime leaves, 2 tbsp Bango Sweet Soy Sauce, salt, 5g tamarind, 100g melinjo leaves, 4 tbsp cooking oil, 35 skinned red onions (roasted & peeled), 15 g garlic, 4 cm turmeric, 1 tsp roasted coriander, ½ tsp shrimp paste, 4 pieces of old palm',
@@ -105,7 +105,7 @@ const foods = [{
   tenth: 'Step 10 Top each bowl with crisp-fried shallots and split hard-boiled eggs, if using.',
 },
 {
-  id: 'gadogado',
+  id: 'gado_gado',
   name: 'Gado Gado Salad',
   description: 'Gado-gado (Indonesian or Betawi) is an Indonesian salad of raw, slightly boiled, blanched or steamed vegetables and hard-boiled eggs, boiled potato, fried tofu and tempeh, and lontong (rice wrapped in a banana leaf), served with a peanut sauce dressing.',
   ingredients: '1 tbsp vegetable oil, 200g firm tofu chopped into small chunks, 250g cooked potatoes (leftover roast potatoes work well) chopped into chunks, 3 eggs, 100g green beans halved lengthways, 250g Chinese cabbage finely shredded, ½ cucumber (or 1 baby cucumber) thinly sliced, 100g beansprouts, 1 carrot shredded, handful coriander leaves picked and roughly chopped, handful prawn crackers, 4 tbsp crispy onions, 50g peanut butter, 3 tbsp kecap manis (or 2 ½ tbsp soy sauce and ½ tbsp honey), 2 tsp shrimp paste or dried crayfish, 1 tbsp fish sauce, 1 tbsp soft dark brown sugar, 1 garlic clove crushed, 2 fat red chillies (I like Scotch bonnets - use only 1 if you dont like it too spicy) finely chopped, 150ml coconut milk, juice 1 lime',
@@ -122,7 +122,7 @@ const foods = [{
   tenth: '',
 },
 {
-  id: 'lumpiasemarang',
+  id: 'lumpia_semarang',
   name: 'Lumpia Semarang',
   description: 'Lumpia Semarang is like a spring roll containing bamboo shoots, eggs, and chicken or shrimp. The taste of semarang spring rolls is a blend of flavors between Chinese and Indonesian cuisine because it was first made by a Chinese descendant who married an Indonesian and settled in Semarang, Central Java. Stuffed with tender bamboo shoots, juicy shrimps, chicken, vegetables and a variety of condiments, this roll is definitely hearty enough for a light lunch or a filling snack.',
   ingredients: '15 sheets spring roll warpper (size 215 mm x 215 mm), 500 g shredded fresh bamboo shoot, 500 g peeled shrimp chopped, 2 tbsp ground dried shrimp, 5 cloves garlic minced, 1 tsp ground white pepper, 2 tbsp abalone sauce, 1 tbsp oyster sauce, 1 tbsp mushroom soy sauce (original recipe called for soy sauce), 1 tbsp Indonesian sweet soy sauce (kecap manis), 150 ml homemade shrimp broth (can be substituted for water and dried shrimp), 3 tbsp oil for stir frying, Brown sauce, 250 ml water, 6 cloves garlic minced, 85 g coconut sugar shredded (Indonesian: gula merah; original recipe called for 100 g coconut sugar), ½ tsp salt, 1 tbsp corn starch or tapioca flour dissolve in a small amount of water, bird eyes chilies chopped',
@@ -156,7 +156,7 @@ const foods = [{
   tenth: '',
 },
 {
-  id: 'telurasin',
+  id: 'telur_asin',
   name: 'Telur Asin',
   description: 'A salted duck egg (Telur Asin) is an Asian preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.',
   ingredients: '10 duck egg, 1000 ml water, 100 gr salt, 1 kg rub ash, bucket',
